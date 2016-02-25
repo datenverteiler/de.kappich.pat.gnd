@@ -1,0 +1,4 @@
+-exportcontents: de.kappich.pat.gnd.*
+-sources: true
+
+Bundle-Name: de.kappich.pat.gnd
